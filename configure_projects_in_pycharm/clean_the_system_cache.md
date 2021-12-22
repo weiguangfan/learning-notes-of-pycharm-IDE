@@ -1,0 +1,2 @@
+1. From the main menu, select `File | Invalidate Caches/Restart`.
+2. In the `Invalidate Caches` dialog, select the relevant action. You can `invalidate the caches and restart the IDE`, `invalidate the caches without restarting the IDE`, or `just restart the IDE`.
