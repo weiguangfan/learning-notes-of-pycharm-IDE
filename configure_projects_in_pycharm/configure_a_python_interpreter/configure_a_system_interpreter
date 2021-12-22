@@ -1,0 +1,7 @@
+1. Ensure that you have `downloaded and installed Python` on your computer.
+2. Click the Python Interpreter selector and choose `Add` Interpreter.`File/Settings/Project:/python interpreter`
+3. open the project `Settings/Preferences` and go to `Project <project name>` | `Python Interpreter`. 
+4. Then click  `icon` and select `Add`.
+5. In the left-hand pane of the `Add Python Interpreter` dialog, select `System Interpreter`.
+6. In the `Interpreter` field, type the `fully-qualified path` to the required interpreter executable, or click `... ` and in the `Select Python Interpreter` dialog that opens, choose the desired Python executable and click `OK`.
+7. Click `OK` to complete the task.
